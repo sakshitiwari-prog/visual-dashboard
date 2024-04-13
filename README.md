@@ -13,6 +13,17 @@
 - Start the server: `node index.js` or `nodemon`
 - Open browser: `http://localhost:3000`
 
+## Description of charts
+
+## -  Distribution of Intensity, Likelihood, and Relevance
+  -It is  a bar chart using the Plotly library to visualize data related to intensity, likelihood, and relevance.Each data point corresponds to a specific country and region, and for each, the intensity, likelihood, and relevance are plotted on the chart as separate bars.
+  
+## -  Insights Distribution by Sector
+  -It displaying the distribution of insights by sector. The chart is a horizontal bar chart created using the Plotly library, with each bar representing the count of insights in a particular sector.
+  
+## -  Insights Distribution by PESTLE Factors
+  -We utilizes the Plotly library to generate a pie chart, presenting the distribution of insights categorized by PESTLE factors. PESTLE factors encompass Political, Economic, Social, Technological, Legal, and Environmental elements, pivotal for examining the external macro-environmental influences on businesses.
+  
 ## File Structure
 
 Within the download you'll find the following directories and files:
