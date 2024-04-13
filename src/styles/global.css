@@ -31,3 +31,14 @@ html {
 body {
   height: 100%;
 }
+.svg-container{
+  width: 50%;
+}
+.js-plotly-plot .plotly{
+  overflow: auto;
+}
+@media (min-width:900px) {
+  .svg-container{
+    width: 80%;
+  }
+}

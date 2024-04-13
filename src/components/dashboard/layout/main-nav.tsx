@@ -24,7 +24,7 @@ export function MainNav(): React.JSX.Element {
 
   return (
     <React.Fragment>
-      <Box
+      {/* <Box
         component="header"
         sx={{
           borderBottom: '1px solid var(--mui-palette-divider)',
@@ -75,7 +75,7 @@ export function MainNav(): React.JSX.Element {
             />
           </Stack>
         </Stack>
-      </Box>
+      </Box> */}
       <UserPopover anchorEl={userPopover.anchorRef.current} onClose={userPopover.handleClose} open={userPopover.open} />
       <MobileNav
         onClose={() => {
