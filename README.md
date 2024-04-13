@@ -1,4 +1,4 @@
-## [Dashboard](https://github.com/sakshitiwari-prog/dashboard)
+## [Visual-dashboard](https://github.com/sakshitiwari-prog/dashboard)
 
 ## Pages 
 
