@@ -7,7 +7,7 @@
 - Add `TypeScript`
 - Refactor code
 - Replace `date-fns` with `dayjs`
-- Replace `Formik` with `React Hook Form`
+- Replace `Formik` with `React Hook Form`  
 - Replace `Hero Icons` with `Phosphor Icons`
 - Replace `pages` router with `app router`
 - Replace `Yup` with `Zod`
