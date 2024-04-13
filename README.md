@@ -8,7 +8,8 @@
 
 - Clone the repo: `git clone https://github.com/sakshitiwari-prog/dashboard.git`
 - Make sure your Node.js and npm versions are up to date
-- Install dependencies: `npm install` 
+- Install dependencies: `npm install`
+- Start the frontend: `npm run dev`
 - Start the server: `node index.js` or `nodemon`
 - Open browser: `http://localhost:3000`
 
