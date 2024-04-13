@@ -1,4 +1,4 @@
-## [Dashboard](https://github.com/sakshitiwari-prog/dashboard)
+## [Visual-dashboard](https://github.com/sakshitiwari-prog/dashboard)
 
 ## Pages 
 
@@ -41,6 +41,6 @@ Within the download you'll find the following directories and files:
 		└── dashboard
 ```
 
-## Contact Us
+## Contact 
 
-- Email Us: sakshit3849@gmial.com
+- Email : sakshit3849@gmail.com
