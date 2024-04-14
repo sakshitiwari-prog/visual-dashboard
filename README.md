@@ -10,7 +10,7 @@
 - Make sure your Node.js and npm versions are up to date
 - Install dependencies: `npm install`
 - Start the frontend: `npm run dev`
-- Start the server: `node index.js` or `nodemon`
+- Start the server: cd server and `node index.js` or `nodemon`
 - Open browser: `http://localhost:3000`
 
 ## Description of charts
